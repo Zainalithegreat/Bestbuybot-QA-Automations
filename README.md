@@ -1,0 +1,1 @@
+This JavaScript program uses Puppeteer to automate the process of adding a product to the cart on BestBuy’s website and purchasing it. This bot continuously tries to buy the product if it’s not in stock and if it is in stock, it buys the product and ends the program.
